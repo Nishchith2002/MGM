@@ -1,0 +1,153 @@
+
+/* overall page */
+.utility-layout { padding: 24px 28px 40px; max-width: 1400px; }
+
+/* top-right controls */
+.controls-bar{ display:flex; justify-content:flex-end; gap:24px; margin-bottom:12px; }
+.controls-bar .toggles{ display:grid; grid-template-columns:auto auto; grid-row-gap:8px; column-gap:10px; }
+.controls-bar .selectors{ display:flex; align-items:end; gap:14px; }
+
+/* chart spacing */
+.chart-wrap {
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;  /* ✅ prevents slider */
+}
+body {
+  overflow-x: hidden;   /* ✅ kills bottom slider */
+}
+
+
+/* two tables side-by-side with equal height */
+.tables-row{ display:grid; grid-template-columns:1fr 1fr; gap:18px; align-items:stretch; }
+.table-card{ display:flex; flex-direction:column; height:100%; }
+.table-card table{ flex:1 1 auto; }
+
+/* breakdown + donut aligned and equal height */
+.breakdown-row{ display:grid; grid-template-columns:1fr 1fr; gap:18px; align-items:stretch; margin-top:18px; }
+.panel{ display:flex; flex-direction:column; height:100%; }
+.chart-box{ flex:1 1 auto; min-height:420px; }
+
+/* tiny polish */
+.no-extra-margins{ margin:0 !important; }
+.tan-head thead { background:#F5DEB3 !important; }
+
+.donut-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 380px;   /* adjust smaller size */
+}
+
+.donut-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 380px;  /* adjust to fit your layout */
+}
+
+.donut-card .chartjs-legend {
+  display: flex !important;
+  justify-content: center !important;
+  flex-wrap: wrap !important;   /* allow wrapping */
+  max-width: 750px;             /* adjust width to force wrap */
+  margin: 0 auto;
+}
+
+
+.section-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.title-main {
+  font-weight: bold;
+  color: #e65100; /* orange like your screenshot */
+}
+
+.title-sub {
+  font-weight: 600;
+  color: #000;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.title-sub.clickable {
+  cursor: pointer;
+}
+
+.title-sub.clickable:hover {
+  text-decoration: underline;
+}
+
+
+.clickable {
+  cursor: pointer;
+  color: #d9534f;   /* same red theme */
+  margin-left: 10px;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+
+
+.custom-table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.custom-table th,
+.custom-table td {
+  text-align: center;
+  vertical-align: middle;
+  padding: 6px;
+  min-width: 110px;   /* Adjust until values look clean */
+  white-space: nowrap; /* prevent wrapping numbers */
+}
+
+
+/* Bold Total Row */
+/* Bold Total Row - keep alignment consistent */
+.total-row td {
+  font-weight: bold;
+  background-color: #D2B48C !important;
+  font-size: 0.8rem;   /* same as body, no bigger */
+  padding: 6px !important;  /* same padding as body */
+  vertical-align: middle;
+}
+
+
+.table-sm td, 
+.table-sm th {
+  font-size: 0.8rem;   /* smaller font for whole table */
+  padding: 6px;        /* tighter spacing */
+}
+
+
+
+/* ---- keep Actual & Normalized table headers perfectly aligned ---- */
+.yoy-table thead tr,
+.norm-table thead tr { vertical-align: middle; }
+
+/* make both tables' header rows exactly the same height */
+.yoy-table thead tr:nth-child(1),
+.norm-table thead tr:nth-child(1) { height: 56px; }
+.yoy-table thead tr:nth-child(2),
+.norm-table thead tr:nth-child(2) { height: 34px; }
+
+/* the blank spacer row in the normalized tables */
+.norm-table thead tr.header-spacer th{
+  padding: 0 !important;
+  border-top: none;
+  line-height: 0;
+  font-size: 0;
+}
+
+
+
+.total-row {
+  font-weight: bold;
+  background-color: #F5DEB3;
+}

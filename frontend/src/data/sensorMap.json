@@ -1,0 +1,12 @@
+{
+  "IC-VAV-02": { "xLoc": 1900, "yLoc": 970 },
+  "IC-VAV-03": { "xLoc": 1950, "yLoc": 1020 },
+  "IC-VAV-04": { "xLoc": 2040, "yLoc": 1100 },
+  "IC-VAV-05": { "xLoc": 2110, "yLoc": 1180 },
+  "IC-VAV-06": { "xLoc": 2210, "yLoc": 1250 },
+  "IC-VAV-07": { "xLoc": 2300, "yLoc": 1330 },
+  "IC-VAV-08": { "xLoc": 2400, "yLoc": 1380 },
+  "IC-VAV-09": { "xLoc": 2480, "yLoc": 1450 },
+  "IC-VAV-10": { "xLoc": 2550, "yLoc": 1530 },
+  "IC-VAV-11": { "xLoc": 2650, "yLoc": 1590 }
+}

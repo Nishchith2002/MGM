@@ -1,0 +1,842 @@
+[
+  {
+    "equipment": "IC-VAV-02",
+    "gridX": 1,
+    "gridY": 1
+  },
+  {
+    "equipment": "IC-VAV-03",
+    "gridX": 2,
+    "gridY": 1
+  },
+  {
+    "equipment": "IC-VAV-05",
+    "gridX": 3,
+    "gridY": 1
+  },
+  {
+    "equipment": "IC-VAV-06",
+    "gridX": 4,
+    "gridY": 1
+  },
+  {
+    "equipment": "IC-VAV-07",
+    "gridX": 5,
+    "gridY": 1
+  },
+  {
+    "equipment": "IC-VAV-08",
+    "gridX": 6,
+    "gridY": 1
+  },
+  {
+    "equipment": "IC-VAV-09",
+    "gridX": 7,
+    "gridY": 1
+  },
+  {
+    "equipment": "IC-VAV-10",
+    "gridX": 8,
+    "gridY": 1
+  },
+  {
+    "equipment": "IC-VAV-11",
+    "gridX": 9,
+    "gridY": 1
+  },
+  {
+    "equipment": "IC-VAV-12",
+    "gridX": 10,
+    "gridY": 1
+  },
+  {
+    "equipment": "IC-VAV-13",
+    "gridX": 1,
+    "gridY": 2
+  },
+  {
+    "equipment": "IC-VAV-14",
+    "gridX": 2,
+    "gridY": 2
+  },
+  {
+    "equipment": "IC-VAV-16",
+    "gridX": 3,
+    "gridY": 2
+  },
+  {
+    "equipment": "IC-VAV-18",
+    "gridX": 4,
+    "gridY": 2
+  },
+  {
+    "equipment": "IC-VAV-19",
+    "gridX": 5,
+    "gridY": 2
+  },
+  {
+    "equipment": "IC-VAV-20",
+    "gridX": 6,
+    "gridY": 2
+  },
+  {
+    "equipment": "IC-VAV-21",
+    "gridX": 7,
+    "gridY": 2
+  },
+  {
+    "equipment": "IC-VAV-22",
+    "gridX": 8,
+    "gridY": 2
+  },
+  {
+    "equipment": "Rossio-01",
+    "gridX": 9,
+    "gridY": 2
+  },
+  {
+    "equipment": "Rossio-01\/06\/09",
+    "gridX": 10,
+    "gridY": 2
+  },
+  {
+    "equipment": "Rossio-02",
+    "gridX": 1,
+    "gridY": 3
+  },
+  {
+    "equipment": "Rossio-03",
+    "gridX": 2,
+    "gridY": 3
+  },
+  {
+    "equipment": "Rossio-04",
+    "gridX": 3,
+    "gridY": 3
+  },
+  {
+    "equipment": "Rossio-05",
+    "gridX": 4,
+    "gridY": 3
+  },
+  {
+    "equipment": "Rossio-06",
+    "gridX": 5,
+    "gridY": 3
+  },
+  {
+    "equipment": "Rossio-07",
+    "gridX": 6,
+    "gridY": 3
+  },
+  {
+    "equipment": "Rossio-08",
+    "gridX": 7,
+    "gridY": 3
+  },
+  {
+    "equipment": "Rossio-09",
+    "gridX": 8,
+    "gridY": 3
+  },
+  {
+    "equipment": "Rossio-10",
+    "gridX": 9,
+    "gridY": 3
+  },
+  {
+    "equipment": "SQ8-01",
+    "gridX": 10,
+    "gridY": 3
+  },
+  {
+    "equipment": "SQ8-01\/02\/05",
+    "gridX": 1,
+    "gridY": 4
+  },
+  {
+    "equipment": "SQ8-02",
+    "gridX": 2,
+    "gridY": 4
+  },
+  {
+    "equipment": "SQ8-03",
+    "gridX": 3,
+    "gridY": 4
+  },
+  {
+    "equipment": "SQ8-04",
+    "gridX": 4,
+    "gridY": 4
+  },
+  {
+    "equipment": "SQ8-05",
+    "gridX": 5,
+    "gridY": 4
+  },
+  {
+    "equipment": "SQ8-06",
+    "gridX": 6,
+    "gridY": 4
+  },
+  {
+    "equipment": "SQ8-06\/07\/10",
+    "gridX": 7,
+    "gridY": 4
+  },
+  {
+    "equipment": "SQ8-07",
+    "gridX": 8,
+    "gridY": 4
+  },
+  {
+    "equipment": "SQ8-08",
+    "gridX": 9,
+    "gridY": 4
+  },
+  {
+    "equipment": "SQ8-09",
+    "gridX": 10,
+    "gridY": 4
+  },
+  {
+    "equipment": "SQ8-10",
+    "gridX": 1,
+    "gridY": 5
+  },
+  {
+    "equipment": "TH-0001",
+    "gridX": 2,
+    "gridY": 5
+  },
+  {
+    "equipment": "TH-0002",
+    "gridX": 3,
+    "gridY": 5
+  },
+  {
+    "equipment": "TH-0003",
+    "gridX": 4,
+    "gridY": 5
+  },
+  {
+    "equipment": "TH-0004",
+    "gridX": 5,
+    "gridY": 5
+  },
+  {
+    "equipment": "TH-0005",
+    "gridX": 6,
+    "gridY": 5
+  },
+  {
+    "equipment": "TH-0006",
+    "gridX": 7,
+    "gridY": 5
+  },
+  {
+    "equipment": "TH-0007",
+    "gridX": 8,
+    "gridY": 5
+  },
+  {
+    "equipment": "TH-0008",
+    "gridX": 9,
+    "gridY": 5
+  },
+  {
+    "equipment": "TH-0009",
+    "gridX": 10,
+    "gridY": 5
+  },
+  {
+    "equipment": "TH-0010",
+    "gridX": 1,
+    "gridY": 6
+  },
+  {
+    "equipment": "TH-0011",
+    "gridX": 2,
+    "gridY": 6
+  },
+  {
+    "equipment": "TH-0012",
+    "gridX": 3,
+    "gridY": 6
+  },
+  {
+    "equipment": "TH-0013",
+    "gridX": 4,
+    "gridY": 6
+  },
+  {
+    "equipment": "TH-0014",
+    "gridX": 5,
+    "gridY": 6
+  },
+  {
+    "equipment": "TH-0015",
+    "gridX": 6,
+    "gridY": 6
+  },
+  {
+    "equipment": "TH-0016",
+    "gridX": 7,
+    "gridY": 6
+  },
+  {
+    "equipment": "TH-0017",
+    "gridX": 8,
+    "gridY": 6
+  },
+  {
+    "equipment": "TH-0018",
+    "gridX": 9,
+    "gridY": 6
+  },
+  {
+    "equipment": "TH-0019",
+    "gridX": 10,
+    "gridY": 6
+  },
+  {
+    "equipment": "TH-0020",
+    "gridX": 1,
+    "gridY": 7
+  },
+  {
+    "equipment": "TH-0021",
+    "gridX": 2,
+    "gridY": 7
+  },
+  {
+    "equipment": "TH-0022",
+    "gridX": 3,
+    "gridY": 7
+  },
+  {
+    "equipment": "TH-0023",
+    "gridX": 4,
+    "gridY": 7
+  },
+  {
+    "equipment": "TH-0024",
+    "gridX": 5,
+    "gridY": 7
+  },
+  {
+    "equipment": "TH-0025",
+    "gridX": 6,
+    "gridY": 7
+  },
+  {
+    "equipment": "TH-0026",
+    "gridX": 7,
+    "gridY": 7
+  },
+  {
+    "equipment": "TH-0027",
+    "gridX": 8,
+    "gridY": 7
+  },
+  {
+    "equipment": "TH-0028",
+    "gridX": 9,
+    "gridY": 7
+  },
+  {
+    "equipment": "TH-0029",
+    "gridX": 10,
+    "gridY": 7
+  },
+  {
+    "equipment": "TH-0030",
+    "gridX": 1,
+    "gridY": 8
+  },
+  {
+    "equipment": "TH-0031",
+    "gridX": 2,
+    "gridY": 8
+  },
+  {
+    "equipment": "TH-0032",
+    "gridX": 3,
+    "gridY": 8
+  },
+  {
+    "equipment": "TH-0033",
+    "gridX": 4,
+    "gridY": 8
+  },
+  {
+    "equipment": "TH-0034",
+    "gridX": 5,
+    "gridY": 8
+  },
+  {
+    "equipment": "TH-0035",
+    "gridX": 6,
+    "gridY": 8
+  },
+  {
+    "equipment": "TH-0036",
+    "gridX": 7,
+    "gridY": 8
+  },
+  {
+    "equipment": "TH-0037",
+    "gridX": 8,
+    "gridY": 8
+  },
+  {
+    "equipment": "TH-0039",
+    "gridX": 9,
+    "gridY": 8
+  },
+  {
+    "equipment": "TH-0040",
+    "gridX": 10,
+    "gridY": 8
+  },
+  {
+    "equipment": "TH-0041",
+    "gridX": 1,
+    "gridY": 9
+  },
+  {
+    "equipment": "TH-0042",
+    "gridX": 2,
+    "gridY": 9
+  },
+  {
+    "equipment": "TH-0043",
+    "gridX": 3,
+    "gridY": 9
+  },
+  {
+    "equipment": "TH-0044",
+    "gridX": 4,
+    "gridY": 9
+  },
+  {
+    "equipment": "TH-0045",
+    "gridX": 5,
+    "gridY": 9
+  },
+  {
+    "equipment": "TH-0046",
+    "gridX": 6,
+    "gridY": 9
+  },
+  {
+    "equipment": "TH-0047",
+    "gridX": 7,
+    "gridY": 9
+  },
+  {
+    "equipment": "TH-0048",
+    "gridX": 8,
+    "gridY": 9
+  },
+  {
+    "equipment": "TH-0050",
+    "gridX": 9,
+    "gridY": 9
+  },
+  {
+    "equipment": "TH-0051",
+    "gridX": 10,
+    "gridY": 9
+  },
+  {
+    "equipment": "TH-0052",
+    "gridX": 1,
+    "gridY": 10
+  },
+  {
+    "equipment": "TH-0053",
+    "gridX": 2,
+    "gridY": 10
+  },
+  {
+    "equipment": "TH-0054",
+    "gridX": 3,
+    "gridY": 10
+  },
+  {
+    "equipment": "TH-0055",
+    "gridX": 4,
+    "gridY": 10
+  },
+  {
+    "equipment": "TH-0057",
+    "gridX": 5,
+    "gridY": 10
+  },
+  {
+    "equipment": "TH-0058",
+    "gridX": 6,
+    "gridY": 10
+  },
+  {
+    "equipment": "TH-0059",
+    "gridX": 7,
+    "gridY": 10
+  },
+  {
+    "equipment": "TH-0061",
+    "gridX": 8,
+    "gridY": 10
+  },
+  {
+    "equipment": "TH-0062",
+    "gridX": 9,
+    "gridY": 10
+  },
+  {
+    "equipment": "TH-0063",
+    "gridX": 10,
+    "gridY": 10
+  },
+  {
+    "equipment": "TH-0064",
+    "gridX": 1,
+    "gridY": 11
+  },
+  {
+    "equipment": "TH-0065",
+    "gridX": 2,
+    "gridY": 11
+  },
+  {
+    "equipment": "TH-0066",
+    "gridX": 3,
+    "gridY": 11
+  },
+  {
+    "equipment": "TH-0067",
+    "gridX": 4,
+    "gridY": 11
+  },
+  {
+    "equipment": "TH-0068",
+    "gridX": 5,
+    "gridY": 11
+  },
+  {
+    "equipment": "TH-0069",
+    "gridX": 6,
+    "gridY": 11
+  },
+  {
+    "equipment": "TH-0070",
+    "gridX": 7,
+    "gridY": 11
+  },
+  {
+    "equipment": "TH-0071",
+    "gridX": 8,
+    "gridY": 11
+  },
+  {
+    "equipment": "TH-0072",
+    "gridX": 9,
+    "gridY": 11
+  },
+  {
+    "equipment": "TH-0073",
+    "gridX": 10,
+    "gridY": 11
+  },
+  {
+    "equipment": "TH-0074",
+    "gridX": 1,
+    "gridY": 12
+  },
+  {
+    "equipment": "TH-0075",
+    "gridX": 2,
+    "gridY": 12
+  },
+  {
+    "equipment": "TH-0076",
+    "gridX": 3,
+    "gridY": 12
+  },
+  {
+    "equipment": "TH-0077",
+    "gridX": 4,
+    "gridY": 12
+  },
+  {
+    "equipment": "TH-0078",
+    "gridX": 5,
+    "gridY": 12
+  },
+  {
+    "equipment": "TH-0079",
+    "gridX": 6,
+    "gridY": 12
+  },
+  {
+    "equipment": "TH-0080",
+    "gridX": 7,
+    "gridY": 12
+  },
+  {
+    "equipment": "TH-0081",
+    "gridX": 8,
+    "gridY": 12
+  },
+  {
+    "equipment": "TH-0082",
+    "gridX": 9,
+    "gridY": 12
+  },
+  {
+    "equipment": "TH-0083",
+    "gridX": 10,
+    "gridY": 12
+  },
+  {
+    "equipment": "TH-0084",
+    "gridX": 1,
+    "gridY": 13
+  },
+  {
+    "equipment": "TH-0085",
+    "gridX": 2,
+    "gridY": 13
+  },
+  {
+    "equipment": "TH-0086",
+    "gridX": 3,
+    "gridY": 13
+  },
+  {
+    "equipment": "TH-0087",
+    "gridX": 4,
+    "gridY": 13
+  },
+  {
+    "equipment": "TH-0089",
+    "gridX": 5,
+    "gridY": 13
+  },
+  {
+    "equipment": "TH-0090",
+    "gridX": 6,
+    "gridY": 13
+  },
+  {
+    "equipment": "TH-0091",
+    "gridX": 7,
+    "gridY": 13
+  },
+  {
+    "equipment": "TH-0092",
+    "gridX": 8,
+    "gridY": 13
+  },
+  {
+    "equipment": "TH-0093",
+    "gridX": 9,
+    "gridY": 13
+  },
+  {
+    "equipment": "TH-0094",
+    "gridX": 10,
+    "gridY": 13
+  },
+  {
+    "equipment": "TH-0095",
+    "gridX": 1,
+    "gridY": 14
+  },
+  {
+    "equipment": "TH-0096",
+    "gridX": 2,
+    "gridY": 14
+  },
+  {
+    "equipment": "TH-0097",
+    "gridX": 3,
+    "gridY": 14
+  },
+  {
+    "equipment": "TH-0098",
+    "gridX": 4,
+    "gridY": 14
+  },
+  {
+    "equipment": "TH-0099",
+    "gridX": 5,
+    "gridY": 14
+  },
+  {
+    "equipment": "TH-0100",
+    "gridX": 6,
+    "gridY": 14
+  },
+  {
+    "equipment": "TH-0101",
+    "gridX": 7,
+    "gridY": 14
+  },
+  {
+    "equipment": "TH-0102",
+    "gridX": 8,
+    "gridY": 14
+  },
+  {
+    "equipment": "TH-0103",
+    "gridX": 9,
+    "gridY": 14
+  },
+  {
+    "equipment": "TH-0104",
+    "gridX": 10,
+    "gridY": 14
+  },
+  {
+    "equipment": "TH-0105",
+    "gridX": 1,
+    "gridY": 15
+  },
+  {
+    "equipment": "TH-0106",
+    "gridX": 2,
+    "gridY": 15
+  },
+  {
+    "equipment": "TH-0107",
+    "gridX": 3,
+    "gridY": 15
+  },
+  {
+    "equipment": "TH-0109",
+    "gridX": 4,
+    "gridY": 15
+  },
+  {
+    "equipment": "TH-0110",
+    "gridX": 5,
+    "gridY": 15
+  },
+  {
+    "equipment": "TH-0111",
+    "gridX": 6,
+    "gridY": 15
+  },
+  {
+    "equipment": "TH-0112",
+    "gridX": 7,
+    "gridY": 15
+  },
+  {
+    "equipment": "TH-0113",
+    "gridX": 8,
+    "gridY": 15
+  },
+  {
+    "equipment": "TH-0114",
+    "gridX": 9,
+    "gridY": 15
+  },
+  {
+    "equipment": "TH-0115",
+    "gridX": 10,
+    "gridY": 15
+  },
+  {
+    "equipment": "TH-0116",
+    "gridX": 1,
+    "gridY": 16
+  },
+  {
+    "equipment": "TH-0117",
+    "gridX": 2,
+    "gridY": 16
+  },
+  {
+    "equipment": "TH-0118",
+    "gridX": 3,
+    "gridY": 16
+  },
+  {
+    "equipment": "TH-0119",
+    "gridX": 4,
+    "gridY": 16
+  },
+  {
+    "equipment": "TH-0120",
+    "gridX": 5,
+    "gridY": 16
+  },
+  {
+    "equipment": "TH-0121",
+    "gridX": 6,
+    "gridY": 16
+  },
+  {
+    "equipment": "TH-0122",
+    "gridX": 7,
+    "gridY": 16
+  },
+  {
+    "equipment": "TH-0123",
+    "gridX": 8,
+    "gridY": 16
+  },
+  {
+    "equipment": "TH-0124",
+    "gridX": 9,
+    "gridY": 16
+  },
+  {
+    "equipment": "TH-0125",
+    "gridX": 10,
+    "gridY": 16
+  },
+  {
+    "equipment": "TH-0126",
+    "gridX": 1,
+    "gridY": 17
+  },
+  {
+    "equipment": "TH-0127",
+    "gridX": 2,
+    "gridY": 17
+  },
+  {
+    "equipment": "TH-0128",
+    "gridX": 3,
+    "gridY": 17
+  },
+  {
+    "equipment": "TH-0129",
+    "gridX": 4,
+    "gridY": 17
+  },
+  {
+    "equipment": "TH-0130",
+    "gridX": 5,
+    "gridY": 17
+  },
+  {
+    "equipment": "TH-0131",
+    "gridX": 6,
+    "gridY": 17
+  },
+  {
+    "equipment": "TH-110\/114\/121",
+    "gridX": 7,
+    "gridY": 17
+  },
+  {
+    "equipment": "TH-111\/112\/115",
+    "gridX": 8,
+    "gridY": 17
+  }
+]
