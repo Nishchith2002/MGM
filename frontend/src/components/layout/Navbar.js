@@ -79,7 +79,8 @@ const Header = () => {
     '/LibraryPage': 'Library',
     '/SensorMonitoring': 'SensorMonitoring',
     '/mgm': 'Sun Path',
-    '/MFMCustomer' : 'MGM Customer Comfort'
+    '/MFMCustomer' : 'MGM Customer Comfort',
+    "/iaq":'INDOOR AIR QUALITY',
    
   };
 

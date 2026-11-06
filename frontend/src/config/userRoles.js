@@ -21,7 +21,8 @@ export const USER_ROLES = {
       '/SensorMonitoring',
       '/Skyspark',
       '/mgm',
-      '/MFMCustomer'  // ✨ ADDED
+      '/MFMCustomer',  // ✨ ADDED
+      '/iaq'
     ],
     lockSite: true,
     role: 'FULL_ACCESS_COTAI',
@@ -42,7 +43,8 @@ export const USER_ROLES = {
       '/SensorMonitoring',
       '/Skyspark',
       '/mgm',
-      '/MFMCustomer'  // ✨ ADDED
+      '/MFMCustomer',  // ✨ ADDED
+      '/iaq'
     ],
     lockSite: true,
     role: 'FULL_ACCESS_MACAU',
@@ -53,7 +55,8 @@ export const USER_ROLES = {
     site: 'Cotai',
     allowedPages: [
       '/HeatMap/cotai',
-      '/MFMCustomer'  // ✨ ADDED - WAS MISSING
+      '/MFMCustomer',  // ✨ ADDED - WAS MISSING
+      '/iaq'
     ],
     lockSite: true,
     role: 'HEATMAP_ONLY_COTAI',
@@ -92,7 +95,8 @@ export const DEFAULT_ROLE = {
     '/Skyspark',
     '/admin/csv-manager',
     '/mgm',
-    '/MFMCustomer'  // ✨ CORRECT CASE
+    '/MFMCustomer',  // ✨ CORRECT CASE
+    '/iaq'
   ],
   lockSite: false,
   role: 'DEFAULT',
@@ -133,6 +137,8 @@ export const getSidebarItemsForUser = (username) => {
     { icon: 'WineCellar', alt: 'WineCellur', path: '/WineCellur' },
     { icon: 'Skyspark', alt: 'Skyspark', path: '/Skyspark' },
      { icon: 'Customer', alt: "customer", path: "/MFMCustomer" },
+     { icon: 'IndoorAirQuality', alt: "IndoorAirQuality", path: "/iaq" },
+
   ];
 
   return allMenuItems.filter(item => {

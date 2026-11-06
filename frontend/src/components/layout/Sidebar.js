@@ -20,6 +20,7 @@ import Performace from '../../assets/search4.png';
 import Alarm from '../../assets/alarm1.png';
 import SunPath from '../../assets/solar2_white.png';
 import Customer from "../../assets/customerReview1.png"
+import IndoorAirQuality from '../../assets/indoor-air-quality.png';
 
 import { getSidebarItemsForUser } from '../../config/userRoles';
 
@@ -61,6 +62,7 @@ const Sidebar = () => {
     { icon: Alarm, alt: "Alarm", path: "/SensorMonitoring" },
     { icon: WineCellur, alt: "WineCellur", path: "/WineCellur" },
     { icon: Customer, alt: "customer", path: "/MFMCustomer" },
+     { icon: IndoorAirQuality, alt: "IndoorAirQuality", path: "/iaq" },
     { icon: Skyspark, alt: "Skyspark", path: "/Skyspark" },
   ];
 
@@ -84,7 +86,7 @@ const Sidebar = () => {
         flexDirection: "column",
         alignItems: "center",
         justifyContent: "space-between",
-        pt: 2,
+        pt: 1,
         boxShadow: 3,
         zIndex: 1200,
       }}

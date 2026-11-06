@@ -25,6 +25,7 @@ import SensorMonitoring from './pages/SensorMonitoring';
 // import solar2_white from "./pages/MGMScene"
 import MGMScene from './pages/MGMScene';
 import MFMCustomer from "./pages/MFMCustomer"
+import IAQ from './pages/iaq';
 
 const App = () => {
   return (
@@ -63,6 +64,7 @@ const App = () => {
             <Route path="/SensorMonitoring" element={<SensorMonitoring />} />
             <Route path="/admin/csv-manager" element={<AdminCSVManager />} />   
              <Route path="/MFMCustomer" element={<MFMCustomer />} /> 
+             <Route path="/iaq" element={<IAQ />} /> 
           </Route>
         </Route>
       </Routes>
